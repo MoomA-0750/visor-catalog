@@ -1,0 +1,21 @@
+{
+  "name": "visor の公式",
+  "apps": [
+    {
+      "id": "calendar",
+      "name": "カレンダー",
+      "icon": "calendar_month",
+      "description": "iCal の URL から今日から 14 日分の予定を並べ、始まる 10 分前に知らせる",
+      "source": "github:MoomA-0750/visor-app-calendar",
+      "preinstall": true
+    },
+    {
+      "id": "monitor",
+      "name": "リソース",
+      "icon": "monitoring",
+      "description": "CPU・GPU・メモリ・VR のコマと重いプロセス。プロセスを終えることもできる",
+      "source": "github:MoomA-0750/visor-app-monitor",
+      "preinstall": true
+    }
+  ]
+}
