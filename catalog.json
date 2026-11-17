@@ -16,6 +16,13 @@
       "description": "CPU・GPU・メモリ・VR のコマと重いプロセス。プロセスを終えることもできる",
       "source": "github:MoomA-0750/visor-app-monitor",
       "preinstall": true
+    },
+    {
+      "id": "imessage",
+      "name": "iMessage",
+      "icon": "sms",
+      "description": "Mac で動く imsg-web につないで、iMessage の会話を読み、返事を打って送る。写真やファイルも送れる。新着は通知で知らせる",
+      "source": "github:MoomA-0750/visor-app-imessage"
     }
   ]
 }
